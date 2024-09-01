@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects using MERN stack**
 
-- 👨‍💻 All of my projects are available at [placeholder](placeholder)
-
-- 📝 I regularly write articles on [placeholder](placeholder)
+- 👨‍💻 All of my projects are available at [placeholder](https://portfolio-vtpx.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
